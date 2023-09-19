@@ -1,8 +1,8 @@
 {
+  "homepage": "https://mewsxdx-milan.github.io/advance-todo-list",
   "name": "todolistadvanced",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mewsxdx-milan.github.io/adv-todo-list",
   "dependencies": {
     "@dnd-kit/core": "^6.0.8",
     "@dnd-kit/modifiers": "^6.0.1",
